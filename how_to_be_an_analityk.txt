@@ -5,3 +5,5 @@
 1.Выучил Python
 2. GIT
 
+3. To Learn statistic
+
